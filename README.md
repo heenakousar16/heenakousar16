@@ -203,16 +203,6 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heenakousar16&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenakousar16&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=heenakousar16&theme=radical&hide_border=true" />
-</p>
-
-
-
 ---
 
 ## 🏆 Ranks • Records • Medals
