@@ -199,6 +199,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heenakousar16&theme=react-dark&hide_border=true&bg_color=0b1020&color=ff00cc&line=7b3fe4&point=ffffff" alt="GitHub activity graph" />
 </p>
 
+
+
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sathishlella&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishlella&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sathishlella&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sathishlella&theme=dracula&no-frame=true&margin-w=12&row=1" />
+</p>
+
 ---
 
 ## 🏆 Ranks • Records • Medals
