@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <a href="https://heenakousar-portfolio.replit.app/">
+  <a href="https://heenakousar16.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Live-ff69b4?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio badge" />
   </a>
   <a href="https://github.com/heenakousar">
@@ -40,9 +40,6 @@
   <a href="https://github.com/heenakousar?tab=repositories">
     <img src="https://img.shields.io/github/stars/heenakousar?affiliations=OWNER&style=for-the-badge&color=ff69b4" alt="GitHub stars" />
   </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=heenakousar16&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views counter" />
 </p>
 
