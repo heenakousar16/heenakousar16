@@ -211,32 +211,16 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=heenakousar16&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&margin-w=12&row=1" />
-</p>
+
 
 ---
 
 ## 🏆 Ranks • Records • Medals
 
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=heenakousar&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
-      alt="GitHub profile trophies"
-    />
-  </a>
-</p>
-
-
 <p align="center">
   <!-- Highlighted trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&margin-w=12&row=1&title=Commits,Repositories,Experience" />
 </p>
-
----
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
@@ -245,6 +229,7 @@
     />
   </a>
 </p>
+
 
 ---
 
