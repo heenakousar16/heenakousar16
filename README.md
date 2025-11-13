@@ -101,7 +101,7 @@
 ### 💄 Beauty Product Recommendation Assistant
 
 <p align="center">
-  <img src="beauty-product-recommendation.png" alt="Beauty Product Recommendation UI" width="720"/>
+  <img src="Beauty_Product_Recommendation.png" alt="Beauty Product Recommendation UI" width="720"/>
 </p>
 
 - **Smart Product Finder, Voice Assistant, Product Catalog & Beauty Consultant**
@@ -125,7 +125,7 @@
 ### 📈 Financial Market Intelligence Platform
 
 <p align="center">
-  <img src="financial-market-intelligence.png" alt="Financial market intelligence dashboard" width="720"/>
+  <img src="Financial_Market_Intelligence.png" alt="Financial market intelligence dashboard" width="720"/>
 </p>
 
 - Real-time visualization of **price movements, indicators and trading signals**  
@@ -161,7 +161,7 @@
 ### 🪖 Project Singularity – Human-Centered Onboarding
 
 <p align="center">
-  <img src=".Project_Singularity_Human_Centered_Onboarding_army.png" alt="Human-centered onboarding presentation" width="720"/>
+  <img src="Project_Singularity_Human_Centered_Onboarding_army.png" alt="Human-centered onboarding presentation" width="720"/>
 </p>
 
 - Focused on **human-centered onboarding** for complex military systems  
