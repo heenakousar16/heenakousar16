@@ -224,7 +224,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=heenakousar&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
       alt="GitHub profile trophies"
     />
   </a>
