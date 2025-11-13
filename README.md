@@ -236,13 +236,13 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hkbaig5@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-id">
+  <a href="https://www.linkedin.com/in/heena-kousar-baig/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>
-  <a href="https://heenakousar-portfolio.replit.app/">
+  <a href="https://heenakousar16.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-ff69b4?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio badge" />
   </a>
 </p>
