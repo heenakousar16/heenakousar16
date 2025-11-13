@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <img src="./assets/profile-heena.png" alt="Profile picture" width="220" style="border-radius: 50%; box-shadow: 0 20px 50px rgba(0,0,0,0.45); transform: perspective(900px) translateZ(40px);" />
+  <img src="heena_dark1.png" alt="Profile picture" width="220" style="border-radius: 50%; box-shadow: 0 20px 50px rgba(0,0,0,0.45); transform: perspective(900px) translateZ(40px);" />
 </p>
 
 <div align="center">
@@ -101,7 +101,7 @@
 ### 💄 Beauty Product Recommendation Assistant
 
 <p align="center">
-  <img src="./assets/beauty-product-recommendation.png" alt="Beauty Product Recommendation UI" width="720"/>
+  <img src="beauty-product-recommendation.png" alt="Beauty Product Recommendation UI" width="720"/>
 </p>
 
 - **Smart Product Finder, Voice Assistant, Product Catalog & Beauty Consultant**
@@ -113,7 +113,7 @@
 ### 🧠 Improved U-Net for Brain Tumor Segmentation
 
 <p align="center">
-  <img src="./assets/brain-tumor-segmentation.png" alt="Brain tumor segmentation certificate" width="720"/>
+  <img src="Brain_tumor_segmentation.png" alt="Brain tumor segmentation certificate" width="720"/>
 </p>
 
 - Research work: **“Improved UNet Framework with Attention for Semantic Segmentation of Tumor Regions in Brain MRI Images”**  
@@ -125,7 +125,7 @@
 ### 📈 Financial Market Intelligence Platform
 
 <p align="center">
-  <img src="./assets/financial-market-intelligence.png" alt="Financial market intelligence dashboard" width="720"/>
+  <img src="financial-market-intelligence.png" alt="Financial market intelligence dashboard" width="720"/>
 </p>
 
 - Real-time visualization of **price movements, indicators and trading signals**  
@@ -137,7 +137,7 @@
 ### 💼 JobMatch – Advanced Job Portal Application
 
 <p align="center">
-  <img src="./assets/jobmatch-portal.png" alt="JobMatch job portal UI" width="720"/>
+  <img src="JobMatch_Advanced_Job_Portal_Application.png" alt="JobMatch job portal UI" width="720"/>
 </p>
 
 - Modern job portal with **search, filters, employer view and candidate dashboard**  
@@ -149,7 +149,7 @@
 ### 🎭 Mafia AI – Interactive Story Experience
 
 <p align="center">
-  <img src="./assets/mafia-ai-display.png" alt="Mafia AI poster" width="720"/>
+  <img src="mafia_ai_display.png" alt="Mafia AI poster" width="720"/>
 </p>
 
 - AI-driven interactive story / investigation experience  
@@ -161,7 +161,7 @@
 ### 🪖 Project Singularity – Human-Centered Onboarding
 
 <p align="center">
-  <img src="./assets/project-singularity-onboarding.png" alt="Human-centered onboarding presentation" width="720"/>
+  <img src=".Project_Singularity_Human_Centered_Onboarding_army.png" alt="Human-centered onboarding presentation" width="720"/>
 </p>
 
 - Focused on **human-centered onboarding** for complex military systems  
