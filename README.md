@@ -229,10 +229,18 @@
   </a>
 </p>
 
+
+<p align="center">
+  <!-- Highlighted trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&margin-w=12&row=1&title=Commits,Repositories,Experience" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&no-bg=true&margin-w=12&row=1&title=Commits,Repositories,Experience,Stars,Followers,Issues,PullRequest,Reviews,LongTimeUser"
+      src="https://github-profile-trophy.vercel.app/?username=heenakousar&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
       alt="GitHub profile trophies"
     />
   </a>
