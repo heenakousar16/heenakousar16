@@ -204,15 +204,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sathishlella&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishlella&layout=compact&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heenakousar16&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenakousar16&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sathishlella&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=heenakousar16&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sathishlella&theme=dracula&no-frame=true&margin-w=12&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&margin-w=12&row=1" />
 </p>
 
 ---
