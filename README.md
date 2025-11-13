@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  <img src="heena_dark1.png" alt="Profile picture" width="220" style="border-radius: 50%; box-shadow: 0 20px 50px rgba(0,0,0,0.45); transform: perspective(900px) translateZ(40px);" />
+  <img src="heena_dark11.png" alt="Profile picture" width="220" style="border-radius: 50%; box-shadow: 0 20px 50px rgba(0,0,0,0.45); transform: perspective(900px) translateZ(40px);" />
 </p>
 
 <div align="center">
@@ -229,7 +229,14 @@
   </a>
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&no-bg=true&margin-w=12&row=1&title=Commits,Repositories,Experience,Stars,Followers,Issues,PullRequest,Reviews,LongTimeUser"
+      alt="GitHub profile trophies"
+    />
+  </a>
+</p>
 
 ---
 
