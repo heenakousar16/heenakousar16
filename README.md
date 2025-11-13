@@ -179,41 +179,50 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heenakousar16&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&commits_year=2025"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=heenakousar16&theme=radical&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenakousar16&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heenakousar16&theme=react-dark&hide_border=true&bg_color=0b1020&color=ff00cc&line=7b3fe4&point=ffffff" alt="GitHub activity graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0b1020&color=ff00cc&line=7b3fe4&point=ffffff"
+    alt="GitHub activity graph"
+  />
 </p>
 
----
-
-## 🏆 Ranks • Records • Medals
+<!-- Optional two-column stats layout -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&commits_year=2025"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true"
+    height="160"
+  />
+</p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&margin-w=12&row=1&title=Commits,Repositories,Experience" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true"
+  />
 </p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
-      alt="GitHub profile trophies"
-    />
-  </a>
-</p>
-
-
 
 ---
 
@@ -221,16 +230,28 @@
 
 <p align="center">
   <!-- Highlighted trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&no-frame=true&margin-w=12&row=1&title=Commits,Repositories,Experience" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&margin-w=12&row=1&title=Commits,Repositories,Experience"
+  />
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=heenakousar16&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&margin-w=10&margin-h=10&no-bg=true"
       alt="GitHub profile trophies"
     />
   </a>
 </p>
+
+---
+
+## 📈 Contribution Summary
+
+- 🔥 325 contributions in 2025  
+- ⚡ 136 contributions in 2024
+
+
 
 
 ---
