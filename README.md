@@ -92,7 +92,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="48" height="48" />
 </p>
 
-> 💡 Add / remove icons above so they match the skills listed on your live portfolio exactly.
+
 
 ---
 
@@ -185,8 +185,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heenakousar&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=heenakousar&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=heenakousar&theme=radical&hide_border=true"
+    alt="GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
@@ -207,7 +211,7 @@
   </a>
 </p>
 
-> These dynamic trophies and graphs act as your **digital medals, ranks and records**, updating automatically as you grow.
+
 
 ---
 
