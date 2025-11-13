@@ -20,13 +20,8 @@
 
 <div align="center">
   <div style="padding: 24px 32px; margin: 12px 0 32px; border-radius: 26px; background: radial-gradient(circle at top left, #ff00cc 0%, #6600ff 40%, #0b1020 100%); box-shadow: 0 25px 60px rgba(0,0,0,0.6); transform: perspective(1100px) rotateX(14deg) rotateY(-10deg);">
-    <h2 style="color:#ffffff; margin: 0 0 10px; font-size: 26px;">3D Portfolio Snapshot</h2>
-    <p style="color:#f7f5ff; margin: 0; max-width: 540px; font-size: 14px;">
-      I design and build intelligent systems – from medical image segmentation and financial
-      intelligence platforms to job-matching portals and interactive AI storytelling experiences.
-    </p>
-  </div>
-</div>
+    <h2 style="color:#ffffff; margin: 0 0 10px; font-size: 26px;">Hello....</h2>
+    <p style="color:#f7f5ff; margin: 0; mnap
 
 ---
 
